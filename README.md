@@ -6,6 +6,6 @@ All demo script are given in a cpp file format only for easy edit in a C++ IDE.
 
 ## hello world
 In this project, a helloworld code of Crane script is presented.
-<img src="http://www.cranescript.com/images/dm0.png">
+<img src="http://www.cranescript.com/image/dm0.png">
 
 
